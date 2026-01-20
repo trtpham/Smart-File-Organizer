@@ -26,17 +26,20 @@ Downloads/
 1. Clone dự án:
    ### Bash:
    git clone [https://github.com/username/smart-file-organizer.git](https://github.com/username/smart-file-organizer.git)
+   
 2. Yêu cầu hệ thống:
    Python 3.10 trở lên.
    Thư viện: Standard Library (không cần cài thêm pip packages).
+   
 3. Hướng dẫn sử dụng
-   Chạy tool thông qua dòng lệnh:
-    1. Chế độ quét thử (Khuyên dùng lần đầu):
+    Chạy tool thông qua dòng lệnh:
+    * Chế độ quét thử (Khuyên dùng lần đầu):
     ### Bash:
     python main.py --source "C:/Downloads" --dry-run
-    2. Chế độ dọn dẹp thật:
+    * Chế độ dọn dẹp thật:
     ### Bash:
     python main.py --source "C:/Downloads"
 
 Tác giả
 Pham Minh Triet - []
+
