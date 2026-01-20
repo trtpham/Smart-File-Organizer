@@ -16,10 +16,15 @@
 
 ## Cấu trúc thư mục sau khi dọn dẹp
 Downloads/
+
 ├── Images/      # .jpg, .png, .gif
+
 ├── Documents/   # .pdf, .docx, .xlsx
+
 ├── Archives/    # .zip, .rar
+
 ├── Setup/       # .exe, .msi
+
 └── Others/      # Các file còn lại
 
 ## Cài đặt
@@ -42,4 +47,5 @@ Downloads/
 
 Tác giả
 Pham Minh Triet - []
+
 
